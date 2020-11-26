@@ -9,7 +9,7 @@ Basic dotnet core worker app that can be installed as a Windows service to check
 - [dotnet core app as win service](https://solrevdev.com/2020/01/31/event-viewer-logs-with-net-core-workers-as-windows-services.html)
 
 ## Logging avaible in Windows Event Viewer 
-![Event Viwer](events.png)
+![Event Viwer](./events.png)
 
 ## Logging from Console
-![Drag Racing](loggerconsole.png)
+![Drag Racing](./loggerconsole.png)
