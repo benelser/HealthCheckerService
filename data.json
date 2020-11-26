@@ -1,0 +1,5 @@
+{
+    "Heartbeat" : 5000,
+    "Destination" : "https://www.google.com",
+    "To" : ["test1@gmail.com", "test1@gmai2.com"]
+}
